@@ -15,6 +15,7 @@ header {
 }
 .t{
     margin-bottom: 80px;
+    float: right;
 }
 .b{
     margin-bottom: 40px;
@@ -70,6 +71,9 @@ h1 {
 
 p {
     font-size: 24px;
+}
+.ar{
+    font-size: 20px;
 }
 
 .info {
